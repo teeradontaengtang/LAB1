@@ -1,5 +1,4 @@
 h = eval(input("Enter diamond's height: "))
-k = input("Enter diamond's height: ")
 
 for j in range(k):
     for x in range(h):
